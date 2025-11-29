@@ -73,14 +73,6 @@
 - 🧰 **Dev Tools** – log cleaner、Node static builder、container init scripts
 - 🧠 **Algorithms** – LeetCode / NeetCode written in C++ to sharpen fundamentals
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=firehourse&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firehourse&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
 
 ---
 
