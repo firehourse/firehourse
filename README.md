@@ -18,6 +18,7 @@ I am a **System Backend Engineer** dedicated to building high-performance distri
 - **Multi-stack Backend Development**: Experienced in **Go, Python, Java, and PHP**, designing scalable microservices and robust enterprise systems.
 - **AI Engineering**: Exploring **Inference Runtime** (e.g., **vLLM**, **TensorRT**, **Triton**) for production-grade model deployment and performance tuning.
 - **Web Automation**: Creator of **cdpkit**, a library leveraging Chrome DevTools Protocol for complex automation and large-scale data pipelines.
+- **AI Tooling**: Building developer-facing AI tools like **gemini-ai-commit** (AI-powered git commit generator) and **localAIExtension** (local model browser integration).
 
 > _"Understanding the system is the foundation of writing better software."_
 
@@ -55,10 +56,12 @@ I am a **System Backend Engineer** dedicated to building high-performance distri
 ### 🚀 Recent Focus
 
 - 🧩 **cdpkit** – Go-based CDP abstraction layer for efficient browser automation.
-- 🎙️ **stt-ai** – High-performance STT pipeline integrated with Go, TS, and Redis.
-- ⚡ **Inference Lab** – Benchmarking and optimizing **vLLM**, **TensorRT**, and **Triton** for production workloads.
-- 🏗️ **Distributed Scheduler** – Designing reliable task scheduling systems and microservice orchestration.
-- 🧠 **Algorithms** – Refining algorithmic intuition and performance optimization in C++.
+- 🎙️ **stt-summarizer** – AI-powered speech-to-text summarizer pipeline.
+- 🦙 **lama-triton** – Optimized deployment of IOpaint LaMA modules via Triton Inference Server.
+- 🤖 **gemini-ai-commit** – AI commit message generator powered by Gemini, integrated into git workflow.
+- 🛠️ **DevoSkill** – Engineering agent skill framework for AI-assisted software development.
+- 🧩 **localAIExtension** – Browser extension for integrating local AI models into daily workflows.
+- 🧬 **multi-head-classifier** – Multi-head classification pipeline built on ResNet.
 
 ---
 
